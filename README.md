@@ -2,8 +2,9 @@
 This repository is for people who want to
 help Ukraine and cant program anything.
 brutal-R is for hacking Russia websites.
-Please copy source code file brutal-R.sh 
-and paste it to termux to run brutal-R.
+Please write from source code file 
+brutal-R.sh 
+Run: Write it to termux to run brutal-R.
 
 
 
