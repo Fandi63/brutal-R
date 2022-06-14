@@ -3,6 +3,7 @@ This repository is for people who want to
 help Ukraine and cant program anything.
 brutal-R is for hacking Russia websites.
 Install: gh repo clone brutal-R
-Run:brutal-R.sh
+cd brutal-R
+Run: 
 
 
