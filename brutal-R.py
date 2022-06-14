@@ -11,4 +11,4 @@ if x == 2:
   os.system("timeout 7 ping russia.com")
   os.system("timeout 3 ping www.news.ru")
   os.system("timeout 2 ping www.tvrain.ru") 
-   x=input("brutal-R>")
+  x=input("brutal-R>")
