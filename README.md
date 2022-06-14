@@ -4,6 +4,6 @@ help Ukraine and cant program anything.
 brutal-R is for hacking Russia websites.
 Install: gh repo clone brutal-R
 cd brutal-R
-Run: 
+Run: python brutal-R.py
 
 
